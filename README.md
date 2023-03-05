@@ -8,7 +8,8 @@ A simplified mini game built through javascript for education purposes.
  * Node.js
  
 ## Acknowledgements
- * TechwithTim - Demostrating how to use this Javascript tool in a fun way! Here is his youtube channel for more info (https://www.youtube.com/@TechWithTim)
+ * TechwithTim - Demostrating how to use this Javascript tool in a fun way! Here is a link to his youtube channel to check him out to learn about python or any other technologies/frameworks 
+ https://www.youtube.com/@TechWithTim
     
  
  
